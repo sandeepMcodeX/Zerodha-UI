@@ -7,21 +7,10 @@ The goal of this project was to practice real-world layout building and responsi
 
 ## 🔗 Live Demo
 
-👉 [Click Here to View Live Project](https://zerodhacodex-clone.netlify.app/)  
+👉 [Click Here to View Live Project](https://zerodh-ui-design.netlify.app)  
 
 
 ---
-
-## 🖼️ Screenshots
-
-### 💻 Desktop View  
-
-![Desktop Screenshot](https://github.com/user-attachments/assets/78deabd1-7fc0-40d7-97ab-cb91a7302bb0)
-
-### 📱 Mobile View  
-(![Screenshot 2025-07-06 224319](https://github.com/user-attachments/assets/be38ba87-c3ff-4810-b10e-0427d8c49353)
-
-
 
 ## ✨ Features
 
